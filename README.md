@@ -7,7 +7,7 @@
 
 ## Contact Information
 
-<a href="{{ sdmines_developer_homepage }}">Dr. Bill Capehart</a>, Associate Professor
+[Dr. Bill Capehart](https://www.sdsmt.edu/about/directory/capehart_-william.html), Associate Professor
 Coordinator, Atmospheric & Environmental Sciences Program<br>
 Civil & Environmental Engineering<br>
 South Dakota Mines<br>
