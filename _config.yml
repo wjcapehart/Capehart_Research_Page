@@ -20,16 +20,16 @@
 
 # Build settings
 remote_theme: clearpathrobotics/jekyll-rtd-theme
-title: Generic SD Mines RTD Template
+title: Dr. Bill Capehart, South Dakota Mines
 email: William.Capehart@sdsmt.edu
-description: Generic SD Mines RTD Template
+description: Research Site for Dr Bill Capehart
 
 
 twitter_username: Bill_Capehart
 github_username:  wjcapehart
 sdmines_developer_homepage: https://www.sdsmt.edu/about/directory/capehart_-william.html
 site.email: William.Capehart@sdsmt.edu
-url: https://github.com/wjcapehart/SD_Mines_GitPages_Template/
+url: https://github.com/wjcapehart/BreadcrumbsCapehart_Research_Page/
 
 
 
