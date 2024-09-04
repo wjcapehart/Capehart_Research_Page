@@ -1,0 +1,149 @@
+.header {
+    background: #002554;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+    src: url("fonts/OpenSans-Regular-webfont.woff2") format("woff2"),
+         url("fonts/OpenSans-Regular-webfont.woff")  format("woff");
+  }
+  
+  @font-face {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-style: italic;
+    font-display: block;
+    src: url("fonts/OpenSans-Italic-webfont.woff2") format("woff2"),
+         url("fonts/OpenSans-Italic-webfont.2off")  format("woff");
+  }
+  
+  @font-face {
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-style: normal;
+    font-display: block;
+    src: url("fonts/OpenSans-Bold-webfont.woff2") format("woff2"),
+         url("fonts/OpenSans-Bold-webfont.woff")  format("woff");
+  }
+  
+  @font-face {
+    font-family: "Open Sans";
+    font-weight:600;
+    font-style: italic;
+    font-display: block;
+    src: url("fonts/OpenSans-BoldItalic-webfont.woff2") format("woff2"),
+         url("fonts/OpenSans-BoldItalic-webfont.woff")  format("woff");
+  }
+  
+  @font-face {
+    font-family: "Spectral";
+    font-weight:400;
+    font-style: normal;
+    font-display: block;
+    src: url("fonts/spectral-regular.woff2") format("woff2"),
+         url("fonts/spectral-regular.woff") format("woff");
+  }
+  
+  @font-face {
+    font-family: "Spectral";
+    font-weight:600;
+    font-style: normal;
+    font-display: block;
+    src: url("fonts/spectral-bold.woff2") format("woff2"),
+         url("fonts/spectral-bold.woff")  format("woff");
+  }
+  
+  @font-face {
+    font-family: "FontAwesome";
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+    src: url("fonts/fontawesome-webfont.eot");
+    src: url("fonts/fontawesome-webfont.eot?#iefix")             format("embedded-opentype"),
+         url("fonts/fontawesome-webfont.woff2")                  format("woff2"),
+         url("fonts/fontawesome-webfont.woff")                   format("woff"),
+         url("fonts/fontawesome-webfont.ttf")                    format("truetype"),
+         url("fonts/fontawesome-webfont.svg#fontawesomeregular") format("svg");
+  }
+  
+
+.font-body{
+    font-family:"OpenSans",BlinkMacSystemFont,"Segoe UI",Helvetica,sans-serif;
+    font-weight:400;
+}
+
+.font-head{
+    font-family:"Spectral","Palatino Linotype","Book Antiqua","Palatino",serif;
+    font-weight:600;
+}
+
+body{
+    font-family:"OpenSans",BlinkMacSystemFont,"Segoe UI",Helvetica,sans-serif;
+    font-size:14px;
+    line-height:1.5;
+    color:#002554;
+    background-color:#fff
+}
+
+.markdown-body{
+    font-family:"OpenSans",BlinkMacSystemFont,"Segoe UI",Helvetica,sans-serif;
+    font-size:16px;
+    line-height:1.5;
+    color:#002554;
+    word-wrap:break-word
+}
+
+.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6,.markdown-body dt{
+    font-family:"Spectral","Palatino Linotype","Book Antiqua","Palatino",serif;
+    color:#385E9D;
+
+}
+
+.markdown-body hr{
+    height:.25em;
+    padding:0;
+    margin:24px 0;
+    background-color:#D9D9D9;
+    color:#B3A369;
+    border:0
+}
+
+.toasts.danger .title{
+    background:#FF0000
+}
+
+.toasts.danger{
+    background-color:#ffc8bd
+}
+
+.toasts.warning .title{
+    background:#de9002
+}
+
+.toasts.warning{
+    background-color:#f7dec2
+}
+
+
+.toasts.note .title{
+    background:#0000ff
+}
+
+.toasts.note{
+    background-color:#aac9ff
+}
+
+
+.toasts.tip .title{
+    background:#008000
+}
+
+.toasts.tip{
+    background-color:#bcd9b9
+}
+
+
+
