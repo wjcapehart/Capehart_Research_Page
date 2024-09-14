@@ -9,11 +9,7 @@ Email: William.Capehart@sdsmt.edu
 
 ## Research & Education Interests 
 
-Climate Resiliency; Land-Atmosphere Interactions; Hydrometeorology;
-Regional Climate Modeling; Natural Hazards; Climate Resiliency;
-Numerical Weather Prediction; Boundary-Layer Meteorology; Scientific
-Visualization; High-Performance Computing; Quantitative Skills Education
-in Geosciences and Engineering
+Climate Resiliency; Land-Atmosphere Interactions; Hydrometeorology; Regional Climate Modeling; Natural Hazards; Climate Resiliency; Numerical Weather Prediction; Boundary-Layer Meteorology; Scientific Visualization; High-Performance Computing; Quantitative Skills Education in Geosciences and Engineering
 
 ## Professional Preparation 
 
