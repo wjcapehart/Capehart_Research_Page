@@ -1,4 +1,4 @@
-# Bill Capehart, South Dakota Mines
+# Bill Capehart, Ph.D, M.ASCE
 <a href="https://orcid.org/0000-0002-4926-0992">
 <img alt="ORCID logo" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="24" height="24"/>
 0000-0002-4926-0992</a>
