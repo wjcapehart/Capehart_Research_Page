@@ -1,4 +1,4 @@
-# William J. Capehart
+# William J Capehart, Ph.D.
 Atmospheric and Environmental Sciences Program\
 Department of Civil and Environmental Engineering\
 South Dakota School of Mines and Technology\
@@ -7,7 +7,7 @@ Rapid City, SD 57701-3995 · USA\
 Phone: +1 (605) 394-1994\
 Email: William.Capehart@sdsmt.edu
 
-## RESEARCH AND EDUCATION INTERESTS 
+## Research & Education Interests 
 
 Climate Resiliency; Land-Atmosphere Interactions; Hydrometeorology;
 Regional Climate Modeling; Natural Hazards; Climate Resiliency;
@@ -15,7 +15,7 @@ Numerical Weather Prediction; Boundary-Layer Meteorology; Scientific
 Visualization; High-Performance Computing; Quantitative Skills Education
 in Geosciences and Engineering
 
-## PROFESSIONAL PREPARATION 
+## Professional Preparation 
 
 Ph.D. in Meteorology May 1997\
 The Pennsylvania State University at University Park\
@@ -31,7 +31,7 @@ B.S. in Atmospheric Sciences, Climatology Track May 1989\
 University of North Carolina at Asheville\
 Asheville, North Carolina USA
 
-## APPOINTMENTS 
+## Appointments 
 
 2015-Present Associate Professor of Civil and Environmental Engineering\
 The South Dakota School of Mines and Technology\
@@ -78,7 +78,7 @@ Atmospheric Sciences Program\
 University of North Carolina at Asheville\
 Asheville, North Carolina USA
 
-## AWARDS AND HONORS
+## Awards & Honors
 
 2006 Commendation, NATO Subgroup 2 on Artillery and Ballistics and
 Battlespace Meteorological Working Group, subgroup on Atmospheric
@@ -87,12 +87,14 @@ Modeling for support in the KerMETFire field program.
 2005 Soil and Water Conservation Society Award: Best Research Article,
 Journal of Soil and Water Conservation
 
-## PROFESSIONAL SOCIETY MEMBERSHIPS
+## Professional Society Memberships
 
 American Meteorological Society, National and Black Hills Chapters
 
 American Society of Civil Engineers (Environment & Water Resources
 Institute)
+
+American Society of Engineering Education
 
 American Geophysical Union
 
@@ -100,7 +102,7 @@ American Association for the Advancement of Science
 
 Sigma Xi
 
-## SCHOLARLY CONTRIBUTIONS
+## Scholarly Contribution
 
 ### Refereed Papers
 
@@ -1021,7 +1023,7 @@ synoptic analysis of the southeastern drought 1984-
 1988.](http://silver.sdsmt.edu/~wcapehar/vita/papers/ams89.html) *6th
 Conference On Applied Climatology*, Charleston, SC, 7-10 March 1989.
 
-## TEACHING AND ADVISING
+## Teaching & Advising
 
 ### Graduate Students Advised
 
@@ -1074,7 +1076,7 @@ Kelsey, Vicki -- MS - Atmospheric and Environmental Sciences, Current
 
 Eylander, John -- PhD - Atmospheric and Environmental Sciences, Current
 
-## Coursework Experience and Expertise
+## Coursework Experience & Expertise
 
 Applied Numerical Methods (Undergraduate)
 
@@ -1102,7 +1104,7 @@ Environmental Systems Modeling (Graduate)
 
 Climate Resiliency in Engineering(Undergraduate and Graduate)
 
-## RECENT PROFESSIONAL ACTIVITIES
+## Recent Professional Activities 
 
 Member, ASCE Committee on Adaptation to a Changing Climate (CACC),
 Subcommittee of Future Weather and Climate Extremes
