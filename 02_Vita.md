@@ -17,18 +17,18 @@ in Geosciences and Engineering
 
 # PROFESSIONAL PREPARATION 
 
-**Ph.D. in Meteorology May 1997\
-**The Pennsylvania State University at University Park\
+Ph.D. in Meteorology May 1997\
+The Pennsylvania State University at University Park\
 Dissertation, "Issues regarding the remote sensing and modeling of soil
 moisture for meteorological applications," Dr. Toby N. Carlson, Advisor
 
-**M.S. in Meteorology May 1992\
-**The Pennsylvania State University at University Park\
+M.S. in Meteorology May 1992\
+The Pennsylvania State University at University Park\
 Thesis, "Construction of a meteorologically driven substratum hydrology
 model," Dr. Toby N. Carlson, Advisor
 
-**B.S. in Atmospheric Sciences, Climatology Track May 1989\
-**University of North Carolina at Asheville\
+B.S. in Atmospheric Sciences, Climatology Track May 1989\
+University of North Carolina at Asheville\
 Asheville, North Carolina USA
 
 # APPOINTMENTS 
@@ -156,7 +156,7 @@ evaporation](http://silver.sdsmt.edu/~wcapehar/vita/papers/rse95.html).
 *Remote Sensing of Environment*, **54** (2), 161-167.
 
 Capehart, W.J., and T.N. Carlson, 1994: [Estimating near-surface
-moisture availability using a meteorologically driven soil- water
+moisture availability using a meteorologically driven soil-water
 profile
 model](http://silver.sdsmt.edu/~wcapehar/vita/papers/jhydro94.html).
 *Journal of Hydrology*, **160** (1-4), 1-20.
@@ -251,43 +251,43 @@ Capehart, W., 2014: Assessment of NCOMET height errors from vertical
 interpolation, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010,
 NATO-PFP Unclassified, October 2014.
 
-## Capehart, W.J., 2012: Confidence Index, Version 0.3a, Requirements Definitions Document, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, September 2012. 
+Capehart, W.J., 2012: Confidence Index, Version 0.3a, Requirements Definitions Document, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, September 2012. 
 
-## Capehart, W.J., and M.R. Hjelmfelt 2012: Confidence Index, Version 0.2b, Software Test Report, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, September 2012.
+Capehart, W.J., and M.R. Hjelmfelt 2012: Confidence Index, Version 0.2b, Software Test Report, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, September 2012.
 
-## Capehart, W.J., 2012: Confidence Index, Version 0.2b, Training Evaluation Technical Report, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, August 2012.
+Capehart, W.J., 2012: Confidence Index, Version 0.2b, Training Evaluation Technical Report, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, August 2012.
 
-## Kliche, D.V., M.R. Hjelmfelt, W.J. Capehart, 2012: Confidence Index, Version 0.2b, Training Evaluation Technical Report, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, August 2012. (Peer Reviewed by NATO-MILMET, 2012)
+Kliche, D.V., M.R. Hjelmfelt, W.J. Capehart, 2012: Confidence Index, Version 0.2b, Training Evaluation Technical Report, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, August 2012. (Peer Reviewed by NATO-MILMET, 2012)
 
-## Capehart, W.J., 2012: Confidence Index, Version 0.2b, Requirements Definitions Document, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, March 2012.
+Capehart, W.J., 2012: Confidence Index, Version 0.2b, Requirements Definitions Document, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, March 2012.
 
-## Kliche, D.V., M.R. Hjelmfelt, W.J. Capehart and R.D. Farley, 2012: Confidence Index, Version 0.2b, Software Testing Report, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, February 2012.
+Kliche, D.V., M.R. Hjelmfelt, W.J. Capehart and R.D. Farley, 2012: Confidence Index, Version 0.2b, Software Testing Report, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, February 2012.
 
-## Capehart, W.J., and D.V. Kliche, 2012: Software: The METGM Visualization Toolkit and Users Guide, Version 2.0, Subtask Technical Report for Contract Tasks 3.3.4, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, February 2012.
+Capehart, W.J., and D.V. Kliche, 2012: Software: The METGM Visualization Toolkit and Users Guide, Version 2.0, Subtask Technical Report for Contract Tasks 3.3.4, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, February 2012.
 
-## Capehart, W.J., and M.R. Hjelmfelt 2011: Requirements to Optimize Benefits for Data Assimilation in NATO Armaments Meteorological Kernel (NAMK), Subtask Technical Report for Contract Tasks 3.3.2.3, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, November 2011.
+Capehart, W.J., and M.R. Hjelmfelt 2011: Requirements to Optimize Benefits for Data Assimilation in NATO Armaments Meteorological Kernel (NAMK), Subtask Technical Report for Contract Tasks 3.3.2.3, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, November 2011.
 
-## Capehart, W.J., and M.R. Hjelmfelt 2011: Role of Sea and Land Features in Numerical Weather Prediction Forecasts, Subtask Technical Report for Contract Tasks 3.3.2.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, November 2011.
+Capehart, W.J., and M.R. Hjelmfelt 2011: Role of Sea and Land Features in Numerical Weather Prediction Forecasts, Subtask Technical Report for Contract Tasks 3.3.2.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, November 2011.
 
-## Capehart, W.J., and M.R. Hjelmfelt 2011: Extracting Forecast Model Data into a METGM, Subtask Technical Report for Contract Tasks 3.2.2.1, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, November 2011.
+Capehart, W.J., and M.R. Hjelmfelt 2011: Extracting Forecast Model Data into a METGM, Subtask Technical Report for Contract Tasks 3.2.2.1, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, November 2011.
 
-## Capehart, W.J., and M.R. Hjelmfelt 2011: Transferring Surface Characteristics between NATO Armaments Meteorological Kernel (NAMK) and Terrain Elevation Data Manager/Global Land User Data Manager (TEDM/GLUM), Subtask Technical Report for Contract Tasks 3.2.3.1 and 3.2.3.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, October 2011.
+Capehart, W.J., and M.R. Hjelmfelt 2011: Transferring Surface Characteristics between NATO Armaments Meteorological Kernel (NAMK) and Terrain Elevation Data Manager/Global Land User Data Manager (TEDM/GLUM), Subtask Technical Report for Contract Tasks 3.2.3.1 and 3.2.3.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, October 2011.
 
-## Capehart, W.J., 2011: Report on the Sensitivity of Met Features to Precision and Levels as expressed in the STANAG 6022 METGM Product Subtask Technical Report for SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, September 2011. 
+Capehart, W.J., 2011: Report on the Sensitivity of Met Features to Precision and Levels as expressed in the STANAG 6022 METGM Product Subtask Technical Report for SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, September 2011. 
 
-## Capehart, W.J., 2011: Sensitivity of Meteorological Features to Precision and Levels in the STANAG 6022 METGM Product, Subtask Technical Report for Contract Tasks 3.2.1.1, 3.2.1.2 and 3.2.1.3, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, August 2011.
+Capehart, W.J., 2011: Sensitivity of Meteorological Features to Precision and Levels in the STANAG 6022 METGM Product, Subtask Technical Report for Contract Tasks 3.2.1.1, 3.2.1.2 and 3.2.1.3, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, August 2011.
 
-## Capehart, W.J., 2011: Confidence Index, Version 0.2a, Requirements Definitions Document, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, July 2011.
+Capehart, W.J., 2011: Confidence Index, Version 0.2a, Requirements Definitions Document, Subtask Technical Report for Contract Tasks 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0010, NATO-PFP Unclassified, July 2011.
 
-## Kliche, D.V., M.R. Hjelmfelt, L. Phillips, and W.J. Capehart, 2010: Confidence Index Evaluation and Optimization, Subtask Technical Report for Contract Task MOD 1 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, October 2010. (Peer Reviewed by NATO-MILMET, 2012)
+Kliche, D.V., M.R. Hjelmfelt, L. Phillips, and W.J. Capehart, 2010: Confidence Index Evaluation and Optimization, Subtask Technical Report for Contract Task MOD 1 3.1.2, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, October 2010. (Peer Reviewed by NATO-MILMET, 2012)
 
-## Phillips, L., D. Kliche, R. Farley, M. Hjelmfelt, and W. Capehart, 2010: New Rules for Confidence Index for NAMK: CI v0.2, Subtask Technical Report for SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, September 2010. (Peer Reviewed by NATO-MILMET, 2012)
+Phillips, L., D. Kliche, R. Farley, M. Hjelmfelt, and W. Capehart, 2010: New Rules for Confidence Index for NAMK: CI v0.2, Subtask Technical Report for SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, September 2010. (Peer Reviewed by NATO-MILMET, 2012)
 
-## Phillips, L., D. Kliche, M. Hjelmfelt, and W. Capehart, 2010a: Application of Confidence Index to different geographical areas and a different meteorological model, Subtask Technical, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, August 2010.
+Phillips, L., D. Kliche, M. Hjelmfelt, and W. Capehart, 2010a: Application of Confidence Index to different geographical areas and a different meteorological model, Subtask Technical, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, August 2010.
 
-## Capehart, W.J., and D.V. Kliche, 2009: Software: The METGM Visualization Toolkit and Users Guide, Subtask Technical Report for Contract Task 3.1.4, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, June 2009.
+Capehart, W.J., and D.V. Kliche, 2009: Software: The METGM Visualization Toolkit and Users Guide, Subtask Technical Report for Contract Task 3.1.4, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, June 2009.
 
-## Franks, C.L., J.R. Wetenkamp, Jr., W.J. Capehart, M.R. Hjelmfelt, 2009: Data Assimilation and Data Reduction in the NATO Armaments Meteorological Kernel (NAMK), Subtask Technical Report for Contract Task 3.3.2.1, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, December 2007.
+Franks, C.L., J.R. Wetenkamp, Jr., W.J. Capehart, M.R. Hjelmfelt, 2009: Data Assimilation and Data Reduction in the NATO Armaments Meteorological Kernel (NAMK), Subtask Technical Report for Contract Task 3.3.2.1, SDSM&T-ARDEC Contract W15QKN-06-D-0006, Task Order 0007, NATO-PFP Unclassified, December 2007.
 
 Das, C., D.D. Nebelsick, WJ Capehart, and H.V. Mott, 2002: The Potential
 impacts of CRP-type Carbon sequestration on the reduction of South
