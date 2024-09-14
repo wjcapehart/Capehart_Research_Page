@@ -7,7 +7,7 @@ Rapid City, SD 57701-3995 · USA\
 Phone: +1 (605) 394-1994\
 Email: William.Capehart@sdsmt.edu
 
-# RESEARCH AND EDUCATION INTERESTS 
+## RESEARCH AND EDUCATION INTERESTS 
 
 Climate Resiliency; Land-Atmosphere Interactions; Hydrometeorology;
 Regional Climate Modeling; Natural Hazards; Climate Resiliency;
@@ -15,7 +15,7 @@ Numerical Weather Prediction; Boundary-Layer Meteorology; Scientific
 Visualization; High-Performance Computing; Quantitative Skills Education
 in Geosciences and Engineering
 
-# PROFESSIONAL PREPARATION 
+## PROFESSIONAL PREPARATION 
 
 Ph.D. in Meteorology May 1997\
 The Pennsylvania State University at University Park\
@@ -31,7 +31,7 @@ B.S. in Atmospheric Sciences, Climatology Track May 1989\
 University of North Carolina at Asheville\
 Asheville, North Carolina USA
 
-# APPOINTMENTS 
+## APPOINTMENTS 
 
 2015-Present Associate Professor of Civil and Environmental Engineering\
 The South Dakota School of Mines and Technology\
@@ -78,7 +78,7 @@ Atmospheric Sciences Program\
 University of North Carolina at Asheville\
 Asheville, North Carolina USA
 
-# AWARDS AND HONORS
+## AWARDS AND HONORS
 
 2006 Commendation, NATO Subgroup 2 on Artillery and Ballistics and
 Battlespace Meteorological Working Group, subgroup on Atmospheric
@@ -87,7 +87,7 @@ Modeling for support in the KerMETFire field program.
 2005 Soil and Water Conservation Society Award: Best Research Article,
 Journal of Soil and Water Conservation
 
-# PROFESSIONAL SOCIETY MEMBERSHIPS
+## PROFESSIONAL SOCIETY MEMBERSHIPS
 
 American Meteorological Society, National and Black Hills Chapters
 
@@ -100,9 +100,9 @@ American Association for the Advancement of Science
 
 Sigma Xi
 
-# SCHOLARLY CONTRIBUTIONS
+## SCHOLARLY CONTRIBUTIONS
 
-## Refereed Papers
+### Refereed Papers
 
 Giovannettone, J., F. Vahedifard, G. Macey, M. Barbato, W. Capehart, A.
 Ganguly, M. Hall, J. Helgeson, S. Li, T. Wu, G. Yan, A. AghaKouchak,
@@ -167,7 +167,7 @@ prediction
 models](http://silver.sdsmt.edu/~wcapehar/vita/papers/bams94.html).
 *Bulletin of the American Meteorological Society*, **75** (4), 585-593.
 
-## Book Chapters
+### Book Chapters
 
 Giovannetone, J.P., W.J. Capehart, N. Lin, 2023: "state of the science
 in meteorological/hydrological extremes," in *[Impacts of Future Weather
@@ -181,7 +181,7 @@ to Agro-forestry Producers and Purchasers. In: *GreenTrading™ Markets:
 Developing the Second Wave*, Peter C. Fusaro and Marion Yuen, Eds.,
 GreenTrading, Inc., New York City, NY, 131-150.
 
-## Non-Refereed Papers and Reports
+### Non-Refereed Papers and Reports
 
 P. Haines, J. Smith, M. Hjelmfelt, W. Capehart, and J. Cogan, 2015:
 Potential Technologies for Assessing Risk Associated with a Mesoscale
@@ -381,7 +381,7 @@ C.A. Schlosser (Lead PI)
 1997: The Upper Missouri River Basin Pilot Project. NASA, \$800,000. w/
 P.L. Smith (Lead PI)
 
-## Conferences and Presentations
+### Conferences and Presentations
 
 Capehart, W., D. Clabo, M. Geza-Nisrani and L. Kunza, 2022: Climate
 change guidance for remediation and resiliency. *Black Hills Defense &
@@ -1021,9 +1021,9 @@ synoptic analysis of the southeastern drought 1984-
 1988.](http://silver.sdsmt.edu/~wcapehar/vita/papers/ams89.html) *6th
 Conference On Applied Climatology*, Charleston, SC, 7-10 March 1989.
 
-# TEACHING AND ADVISING
+## TEACHING AND ADVISING
 
-## Graduate Students Advised
+### Graduate Students Advised
 
 Meng, Fanguang -- MS -- Atmospheric Sciences, 2000
 
@@ -1102,7 +1102,7 @@ Environmental Systems Modeling (Graduate)
 
 Climate Resiliency in Engineering(Undergraduate and Graduate)
 
-# RECENT PROFESSIONAL ACTIVITIES
+## RECENT PROFESSIONAL ACTIVITIES
 
 Member, ASCE Committee on Adaptation to a Changing Climate (CACC),
 Subcommittee of Future Weather and Climate Extremes
