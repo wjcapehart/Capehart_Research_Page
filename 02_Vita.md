@@ -1,6 +1,6 @@
 # Vita
 
-**William J Capehart, Ph.D.**
+**William J Capehart, Ph.D.**\
 Atmospheric and Environmental Sciences Program\
 Department of Civil and Environmental Engineering\
 South Dakota School of Mines and Technology\
