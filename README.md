@@ -1,10 +1,10 @@
 # Bill Capehart, Ph.D., M.ASCE
-<a href="https://orcid.org/0000-0002-4926-0992">
-<img alt="ORCID logo" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="24" height="24"/>
+<a href="https://orcid.org/0000-0002-4926-0992"> <sub>
+<img alt="ORCID logo" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="24" height="24"/> </sub>
 0000-0002-4926-0992</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.sdsmt.edu/about/directory/capehart_-william.html">
-<img alt="SD Mines logo" src="images/MinesM.svg" width="24" height="24"/>
+<sub><img alt="SD Mines logo" src="images/MinesM.svg" width="24" height="24"/></sub>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/william-capehart/"><i style="font-size:24px" color="#0f4fb5" class="fa">&#xf08c;</i></a>
