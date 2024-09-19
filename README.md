@@ -17,7 +17,7 @@
                     &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/Bill_Capehart"><i style="font-size:24px" class="fa">&#xf099;</i></a>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/william.capehart/"><i style="font-size:24px" class="fa">&#xf09a;</i></a>
+<a href="https://www.facebook.com/william.capehart/"><i style="font-size:24px" class="fa">&#xf230;</i></a>
 
 
                     
