@@ -3,7 +3,7 @@
 <img alt="ORCID logo" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="24" height="24"/> </sub><sup><!--- 
 0000-0002-4926-0992---></sup></a>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.sdsmt.edu/about/directory/capehart_-william.html">
+<a href="https://www.sdsmt.edu/about/directory/capehart_william.html">
 <sub><img alt="SD Mines logo" src="images/MinesM.svg" width="24" height="24"/></sub>
 </a>
                     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,7 +24,7 @@ I am an Associate Professor in Atmospheric and Environmental Sciences & Civil an
 
 My research interests are the remote sensing and modeling of surface features and land-surface processes with emphasis on applications in operational meteorology, risk and hazard assessment, numerical weather and regional climate prediction, and land-surface hydrology. In particular, I’m interested in developing tools to examine the role of land cover, vegetation and subsurface processes on the hydrologic cycle and the influence in climate change and extreme weather events on natural and designed surface systems.
 
-My teaching specialties revolve around climate change and resiliency, numerical weather prediction, boundary layer meteorology, computing in the geosciences, numerical methods and environmental modeling. I've also taught courses in remote sensing, and synoptic meteorology.
+My teaching specialties revolve around climate change and resiliency, numerical weather prediction, boundary layer meteorology, computing in the geosciences, numerical methods and environmental modeling. I've also taught courses in remote sensing and synoptic meteorology.
 
 ## Contact Information
 
