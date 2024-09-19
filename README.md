@@ -12,7 +12,7 @@
 <a href="https://github.com/wjcapehart"><i style="font-size:24px" class="fa">&#xf09b;</i></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://bsky.app/profile/billcapehart.bsky.social">
-<img alt="SD Mines logo" src="images/bluesky.svg" width="24" height="24"/>
+<img alt="SD Mines logo" src="images/bluesky.svg" width="24" height="24" color="#0f4fb5"/>
 </a>
 
 
