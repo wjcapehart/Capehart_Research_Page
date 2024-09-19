@@ -10,6 +10,11 @@
 <a href="https://www.linkedin.com/in/william-capehart/"><i style="font-size:24px" color="#0f4fb5" class="fa">&#xf08c;</i></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/wjcapehart"><i style="font-size:24px" class="fa">&#xf09b;</i></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://bsky.app/profile/billcapehart.bsky.social">
+<img alt="SD Mines logo" src="images/bluesky.svg" width="24" height="24"/>
+</a>
+
 
 ![Bill at the Arch](images/Capehart_Arch_mines_banner.jpeg)
 
