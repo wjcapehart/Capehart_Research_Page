@@ -107,17 +107,17 @@ Sigma Xi
 Giovannettone, J., F. Vahedifard, G. Macey, M. Barbato, W. Capehart, A.
 Ganguly, M. Hall, J. Helgeson, S. Li, T. Wu, G. Yan, A. AghaKouchak,
 2023: Equitable Infrastructure: Achieving restorative justice through
-resilient systems. *Science*. In Review.
+resilient systems. *PNAS Nexus*, **3** (5), pgae157. [doi: 10.1093/pnasnexus/pgae157](https://doi.org/10.1093/pnasnexus/pgae157)
 
 Claggett, N., A. Surovek, and W. Capehart, 2017: A Bio-inspired
 examination of the role of material and environment in the development
 of multi-functional structural forms, *Journal of Structural
-Engineering.* **44** (7), doi: 10.1061/(ASCE)ST.1943-541X.0002043.
+Engineering.* **44** (7), [doi: 10.1061/(ASCE)ST.1943-541X.0002043](https://doi.org/10.1061/(ASCE)ST.1943-541X.0002043)
 
 Wang, S.-Y., K. Hakala, R.R. Gillies, and W.J. Capehart, 2014: The
 Pacific Quasi-Decadal Oscillation (QDO): An important precursor towards
 anticipating major flood events in the Missouri River Basin?
-*Geophysical Research Letters, 41,* doi: 10.1002/2013GL059042*.*
+*Geophysical Research Letters, **41**, [doi: 10.1002/2013GL059042](https://doi.org/10.1002/2013GL059042)
 
 Zimmerman, P.R., M. Price, C. Peng, W.J. Capehart, K. Updegraff, P.
 Kozak, L. Vierling, E. Baker, F. Kopp, G. Duke and C. Das, 2005: C-Lock
