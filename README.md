@@ -1,4 +1,4 @@
-# Bill Capehart, Ph.D., M.ASCE
+# Bill Capehart, Ph.D.
 <a href="https://orcid.org/0000-0002-4926-0992"> <sub>
 <img alt="ORCID Logo" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="24" height="24"/> </sub><sup><!--- 
 0000-0002-4926-0992---></sup></a>
