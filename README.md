@@ -15,8 +15,6 @@
 <sub><img alt="BlueSky Logo" src="images/bluesky.svg" width="24" height="24" color="#0f4fb5"/></sub>
 </a>
                     &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/Bill_Capehart"><i style="font-size:24px" class="fa">&#xf099;</i></a>
-                    &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/william.capehart/"><i style="font-size:24px" class="fa">&#xf230;</i></a>
 
 
