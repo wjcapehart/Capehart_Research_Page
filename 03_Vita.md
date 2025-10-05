@@ -147,24 +147,24 @@ moisture values, *Journal of Hydrometeorology*, *1*(4), 353-363.
 
 Capehart, W.J., and T.N. Carlson, 1997: [Decoupling of surface and
 near-surface soil water content: a remote sensing
-perspective](http://silver.sdsmt.edu/~wcapehar/vita/papers/wrr97.html).
+perspective](https://silver.sdsmt.edu/~wcapehar/vita/papers/wrr97.html).
 *Water Resources Research*, **33** (6), 1383-1395.
 
 Carlson, T.N., W.J. Capehart, and R.R. Gillies, 1995: [A new look at the
 simplified method for remote sensing of daily
-evaporation](http://silver.sdsmt.edu/~wcapehar/vita/papers/rse95.html).
+evaporation](https://silver.sdsmt.edu/~wcapehar/vita/papers/rse95.html).
 *Remote Sensing of Environment*, **54** (2), 161-167.
 
 Capehart, W.J., and T.N. Carlson, 1994: [Estimating near-surface
 moisture availability using a meteorologically driven soil-water
 profile
-model](http://silver.sdsmt.edu/~wcapehar/vita/papers/jhydro94.html).
+model](https://silver.sdsmt.edu/~wcapehar/vita/papers/jhydro94.html).
 *Journal of Hydrology*, **160** (1-4), 1-20.
 
 Smith, C.B., M.N. Lakhtakia, W.J. Capehart, and T.N. Carlson, 1994:
 [Initialization of soil-water content in regional scale atmospheric
 prediction
-models](http://silver.sdsmt.edu/~wcapehar/vita/papers/bams94.html).
+models](https://silver.sdsmt.edu/~wcapehar/vita/papers/bams94.html).
 *Bulletin of the American Meteorological Society*, **75** (4), 585-593.
 
 ### Book Chapters
@@ -994,7 +994,7 @@ Union Spring Meeting, Baltimore, MD, 20-24 May 1996.
 Carlson, T.N., R.R. Gillies and W.J. Capehart, 1995: [A new look at
 remote measurement of soil water content and the surface energy fluxes
 using thermal
-infrared.](http://silver.sdsmt.edu/~wcapehar/vita/papers/ieee95.html)
+infrared.](https://silver.sdsmt.edu/~wcapehar/vita/papers/ieee95.html)
 *1995 International Geoscience and Remote Sensing Symposium*, Firenze,
 Italy, 10-14 July 1995, 748-750.
 
@@ -1006,19 +1006,19 @@ Geophysical Union Spring Meeting*, Baltimore, MD, 30 May - 02 June 1995.
 Capehart, W.J., and T.N. Carlson, 1994: [Estimation of surface moisture
 availability using a hydrologic budget model aided by surface satellite
 observations and a soil-vegetation-atmosphere transfer scheme
-(SVAT).](http://silver.sdsmt.edu/~wcapehar/vita/papers/ams94.html)
+(SVAT).](https://silver.sdsmt.edu/~wcapehar/vita/papers/ams94.html)
 *21rst Conference on Agricultural and Forest Meteor.*, San Diego, CA,
 7-11 March 1994, J39-J42.
 
 Capehart, W.J. and T.N. Carlson, 1992: [Development of a
 meteorologically driven substrate hydrology
-model.](http://silver.sdsmt.edu/~wcapehar/vita/papers/egs92.html)
+model.](https://silver.sdsmt.edu/~wcapehar/vita/papers/egs92.html)
 *European Geophysical Society XVII General Assembly*, Edinburgh, UK,
 6-12 April 1992.
 
 Brotak E.A., W.J. Capehart and D.M. Walston, 1989: [A statistical and
 synoptic analysis of the southeastern drought 1984-
-1988.](http://silver.sdsmt.edu/~wcapehar/vita/papers/ams89.html) *6th
+1988.](https://silver.sdsmt.edu/~wcapehar/vita/papers/ams89.html) *6th
 Conference On Applied Climatology*, Charleston, SC, 7-10 March 1989.
 
 ## Teaching & Advising
