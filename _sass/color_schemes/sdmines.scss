@@ -1,0 +1,16 @@
+$color-scheme: sdmines !default;
+$body-background-color: $white !default;
+$body-heading-color: #385E9D !default;
+$body-text-color: #002554 !default;
+$link-color: #385E9D !default;
+$nav-child-link-color: $grey-dk-100 !default;
+$sidebar-color: $grey-lt-000 !default;
+$base-button-color: #f7f7f7 !default;
+$btn-primary-color: #385E9D !default;
+$code-background-color: $grey-lt-000 !default;
+$feedback-color: darken($sidebar-color, 3%) !default;
+$table-background-color: $white !default;
+$search-background-color: $white !default;
+$search-result-preview-color: $grey-dk-000 !default;
+
+@import "./vendor/OneLightJekyll/syntax";

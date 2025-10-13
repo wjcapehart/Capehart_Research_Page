@@ -19,7 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 # Build settings
-remote_theme: clearpathrobotics/jekyll-rtd-theme
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: sdmines
+
 title: Dr. Bill Capehart, South Dakota Mines
 email: William.Capehart@sdsmt.edu
 description: Research Site for Dr Bill Capehart
@@ -31,7 +34,7 @@ sdmines_developer_homepage: https://www.sdsmt.edu/about/directory/capehart_-will
 site.email: William.Capehart@sdsmt.edu
 url: https://github.com/wjcapehart/Capehart_Research_Page/
 
-
+logo: images/WJC_Research_Page_Logo
 
 sass:
    sass_dir: _sass
@@ -62,3 +65,23 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+callouts_level: quiet # or loud
+callouts:
+  note:
+    title: Note
+    color: blue
+  tip:
+    title: Tip
+    color: green
+  important:
+    title: Important
+    color: purple
+  caution:
+    title: Caution
+    color: yellow
+  warning:
+    title: Warning
+    color: red
+
