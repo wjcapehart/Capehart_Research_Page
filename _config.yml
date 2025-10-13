@@ -34,7 +34,7 @@ sdmines_developer_homepage: https://www.sdsmt.edu/about/directory/capehart_-will
 site.email: William.Capehart@sdsmt.edu
 url: https://github.com/wjcapehart/Capehart_Research_Page/
 
-logo: images/WJC_Research_Page_Logo
+logo: images/WJC_Research_Page_Logo.png
 
 sass:
    sass_dir: _sass
