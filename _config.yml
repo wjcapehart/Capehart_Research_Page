@@ -39,12 +39,16 @@ logo: images/WJC_Research_Page_Logo.png
 sass:
    sass_dir: _sass
 
-
+include:
+  - assets/images/
 
 plugins:
   - jekyll-feed
   - jekyll-email-protect
   - jekyll-remote-theme
+  - jekyll-gfm-admonitions
+  - jekyll-optional-front-matter
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
